@@ -1,0 +1,1 @@
+I've written a simple encryption script and I encrypted a super-secret flag with it. The encrypted flag is: `FcGYnlBjz"?op:{>Af9g?B2w`
